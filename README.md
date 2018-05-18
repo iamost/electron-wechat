@@ -45,5 +45,3 @@ npm run build:win64
 brew cask install electronic-wechat
 ```
 
-#### [Download Released App](https://github.com/geeeeeeeeek/electronic-wechat/releases)
-
